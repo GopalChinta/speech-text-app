@@ -61,6 +61,11 @@ speech-text-app/
 └── README.md
 ```
 
+<img width="1900" height="927" alt="image" src="https://github.com/user-attachments/assets/e4908cec-2467-41f5-891b-194c3629dab9" />
+<img width="1899" height="929" alt="image" src="https://github.com/user-attachments/assets/1ad5797e-d9ea-4d10-b928-332e97abb24d" />
+
+
+
 
 📄 License
 MIT License
