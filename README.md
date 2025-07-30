@@ -32,15 +32,22 @@ Built with:
 ```bash
 git clone https://github.com/GopalChinta/speech-text-app.git
 cd speech-text-app
-Install dependencies:
+```
+
+2. Install dependencies:
+```
 
 pip install -r requirements.txt
+```
 Start the Flask app:
 
+```
 python app.py
+```
 Then open http://localhost:5000 in your browser.
 
 📁 Project Structure
+```
 
 speech-text-app/
 │
@@ -52,6 +59,7 @@ speech-text-app/
 ├── templates/
 │   └── index.html
 └── README.md
+```
 
 
 📄 License
